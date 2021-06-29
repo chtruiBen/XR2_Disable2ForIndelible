@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.team4_xpp2_test.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\user\\Desktop\\TEAM4_XPP2_test\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\user\\Desktop\\XR2_Disable2ForIndelible_new\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "TEAM4_XPP2_test [Testing]"
